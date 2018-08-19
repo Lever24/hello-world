@@ -1,3 +1,3 @@
 
 
-vec_hello <- rep("hello world!", 21)
+vec_hello <- rep("hello world!", 24)
